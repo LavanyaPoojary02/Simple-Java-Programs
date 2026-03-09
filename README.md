@@ -1,2 +1,18 @@
-# Simple-Java-Programs
-Basic Java programs for beginners.
+# Simple Programs
+
+This repository contains beginner programming examples.
+
+## Languages Used
+- Java
+- Python
+- PHP
+
+## Programs
+- Hello World
+- Addition
+- Subtraction
+- Fibonacci Series
+- Swap Numbers
+
+## Author
+Lavanya Poojary
