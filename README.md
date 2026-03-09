@@ -13,6 +13,7 @@ This repository contains beginner programming examples.
 - Subtraction
 - Fibonacci Series
 - Swap Numbers
+- Factorial 
 
 ## Author
 Lavanya Poojary
