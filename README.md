@@ -14,7 +14,8 @@ This repository contains beginner programming examples.
 - Fibonacci Series
 - Swap Numbers
 - Factorial
-- Prime Number 
+- Prime Number
+- Simple Calculator 
 
 ## Author
 Lavanya Poojary
