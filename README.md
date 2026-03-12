@@ -15,7 +15,8 @@ This repository contains beginner programming examples.
 - Swap Numbers
 - Factorial
 - Prime Number
-- Simple Calculator 
+- Simple Calculator
+- Even or Odd
 
 ## Author
 Lavanya Poojary
