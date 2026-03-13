@@ -1,6 +1,7 @@
 # Simple Programs
 
-This repository contains beginner programming examples.
+This repository contains simple Java and Python programs for beginners.
+It helps in learning basic programming concepts.
 
 ## Languages Used
 - Java
