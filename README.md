@@ -7,6 +7,7 @@ It helps in learning basic programming concepts.
 - Java
 - Python
 - PHP
+- HTML and CSS 
 
 ## Programs
 - Hello World
@@ -18,6 +19,7 @@ It helps in learning basic programming concepts.
 - Prime Number
 - Simple Calculator
 - Even or Odd
+- simple website 
 
 ## Author
 Lavanya Poojary
