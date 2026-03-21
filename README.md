@@ -19,7 +19,8 @@ It helps in learning basic programming concepts.
 - Prime Number
 - Simple Calculator
 - Even or Odd
-- simple website 
+- simple website
+- reverse_string
 
 ## Author
 Lavanya Poojary
