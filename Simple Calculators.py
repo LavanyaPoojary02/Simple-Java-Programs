@@ -5,16 +5,16 @@ b = int(input("Enter second number: "))
 
 # Addition
 addition = a + b
-print("Addition:", addition)
+print("Addition of the number:", addition)
 
 # Subtraction
 subtraction = a - b
-print("Subtraction:", subtraction)
+print("Subtraction of the number:", subtraction)
 
 # Multiplication
 multiplication = a * b
-print("Multiplication:",multiplication )
+print("Multiplication of the number:",multiplication )
 
 # Division
 division = a / b
-print("Division:", division)
+print("Division of the number:", division)
