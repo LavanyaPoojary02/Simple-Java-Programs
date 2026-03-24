@@ -5,5 +5,5 @@ temp = a
 a = b
 b = temp
 
-print("a =", a)
-print("b =", b)
+print("a is =", a)
+print("b is =", b)
