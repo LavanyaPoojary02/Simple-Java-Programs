@@ -4,7 +4,7 @@ text="Helloo"
 reversed_string=text[::-1]
 
 # Original String
-print ("***Original String is***:",text)
+print ("***Original String are***:",text)
 
 #Reversed String 
-print("***Reversed String is***:",reversed_string)
+print("***Reversed String are***:",reversed_string)
