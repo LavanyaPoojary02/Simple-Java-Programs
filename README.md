@@ -21,6 +21,7 @@ It helps in learning basic programming concepts.
 - Even or Odd
 - simple website
 - reverse_string
+- String Length 
 
 ## Author
 Lavanya Poojary
