@@ -1,7 +1,7 @@
 # Simple Programs
 
 This repository contains simple Java and Python programs for beginners.
-It helps in learning basic programming concepts.
+It helps in learning basic programming language with concepts.
 
 ## Languages Used
 - Java
