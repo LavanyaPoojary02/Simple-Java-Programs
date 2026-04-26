@@ -1,4 +1,4 @@
-# Simple Programs
+# Simple Programs 🧑‍💻💻
 
 This repository contains simple Java and Python programs for beginners.
 It helps in learning more basic programming language with concepts.
@@ -22,7 +22,8 @@ It helps in learning more basic programming language with concepts.
 - simple website
 - reverse_string
 - String Length
-- index 
+- index
+- simple java
 
 ## Author
 Lavanya Poojary
