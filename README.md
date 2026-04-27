@@ -7,7 +7,8 @@ It helps in learning more basic programming language with concepts.
 - Java
 - Python
 - PHP
-- HTML and CSS 
+- HTML and CSS
+- C
 
 ## Programs
 - Hello World
