@@ -1,30 +1,48 @@
-# Simple Programs 🧑‍💻💻
+💻 Simple Programs
 
-This repository contains simple Java and Python programs for beginners.
-It helps in learning more basic programming language with concepts.
+Hi, I'm Lavanya 👋
 
-## Languages Used
+This repository contains beginner-friendly programs in multiple programming languages.
+It is created to practice basic concepts and improve coding skills.
+
+---
+
+🚀 Languages Used
+
 - Java
 - Python
-- PHP
-- HTML and CSS
 - C
+- PHP
+- HTML & CSS
 
-## Programs
+---
+
+📌 Programs Included
+
 - Hello World
-- Addition
-- Subtraction
+- Addition & Subtraction
 - Fibonacci Series
 - Swap Numbers
 - Factorial
-- Prime Number
+- Prime Number Check
 - Simple Calculator
 - Even or Odd
-- simple website
-- reverse_string
+- Reverse String
 - String Length
-- index
-- simple java
+- Basic Website (HTML & CSS)
 
-## Author
+---
+
+🎯 Purpose
+
+- Practice basic programming concepts
+- Improving Technical knowledge 
+---
+
+👩‍💻 Author
+
 Lavanya Poojary
+
+---
+
+✨ Thank you for visiting this repository!
