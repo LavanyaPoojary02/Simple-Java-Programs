@@ -6,9 +6,9 @@ int main() {
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
 
-    sums = num1 - num2;
+    substraction = num1 - num2;
 
-    printf("Sum = %d", sums);
+    printf("Sum = %d", substraction );
 
     return 0;
 }
