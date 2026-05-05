@@ -30,7 +30,8 @@ It is created to practice basic concepts and improve coding skills.
 - Reverse String
 - String Length
 - Basic Website (HTML & CSS)
-- Basic operation 
+- Basic operation
+- Multiplication and Division 
 
 ---
 
