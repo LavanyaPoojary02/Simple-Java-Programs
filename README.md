@@ -1,4 +1,4 @@
-💻 Simple Programs
+💻 Simple Programs🧑‍💻
 
 Hi, I'm Lavanya 👋
 
