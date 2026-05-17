@@ -35,7 +35,7 @@ It is created to practice basic concepts and improve coding skills.
 
 ---
 
-🎯 Purpose
+🎯 Purposes 
 
 - Practice basic programming concepts
 - Improving Technical knowledge 
