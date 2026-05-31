@@ -31,7 +31,8 @@ It is created to practice basic concepts and improve coding skills.
 - String Length
 - Basic Website (HTML & CSS)
 - Basic operation
-- Multiplication and Division 
+- Multiplication and Division
+- Simple Program 
 
 ---
 
