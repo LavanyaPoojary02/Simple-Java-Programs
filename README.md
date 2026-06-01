@@ -7,7 +7,7 @@ It is created to practice basic concepts and improve coding skills.
 
 ---
 
-🚀 Languages Used
+🚀 Languages Used:
 
 - Java
 - Python
@@ -17,7 +17,7 @@ It is created to practice basic concepts and improve coding skills.
 
 ---
 
-📌 Programs Included
+📌 Programs Included:
 
 - Hello World
 - Addition & Subtraction
@@ -36,13 +36,13 @@ It is created to practice basic concepts and improve coding skills.
 
 ---
 
-🎯 Purposes 
+🎯 Purposes:
 
 - Practice basic programming concepts
 - Improving Technical knowledge 
 ---
 
-👩‍💻 Author
+👩‍💻 Author:
 
 Lavanya Poojary🧑‍💻
 
