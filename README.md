@@ -32,7 +32,8 @@ It is created to practice basic concepts and improve coding skills.
 - Basic Website (HTML & CSS)
 - Basic operation
 - Multiplication and Division
-- Simple Program 
+- Simple Program
+- Form Submission 
 
 ---
 
