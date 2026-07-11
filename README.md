@@ -33,7 +33,8 @@ It is created to practice basic concepts and improve coding skills.
 - Basic operation
 - Multiplication and Division
 - Simple Program
-- Form Submission 
+- Form Submission
+- Palindrome 
 
 ---
 
