@@ -1,4 +1,4 @@
-choice = int(input("Enter number (1-4): "))
+choice = int(input("Enter a number (1-4): "))
 
 a = 10
 b = 5
