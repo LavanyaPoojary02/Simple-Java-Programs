@@ -1,4 +1,4 @@
-# Taking input from user
+# Taking input from users
 text = input("Enter a string: ")
 
 # Finding length of the string
